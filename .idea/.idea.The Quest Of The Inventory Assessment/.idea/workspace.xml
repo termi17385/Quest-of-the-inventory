@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="514119de-8d13-4648-af76-3c0d5fca8458" name="Default Changelist" comment="" />
+    <list default="true" id="514119de-8d13-4648-af76-3c0d5fca8458" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.The Quest Of The Inventory Assessment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.The Quest Of The Inventory Assessment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Quest of inventory/Prefabs/NPC.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Quest of inventory/Prefabs/NPC.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Quest of inventory/Prefabs/Warrior.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Quest of inventory/Prefabs/Warrior.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Quest of inventory/Scripts/Player/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Quest of inventory/Scripts/Player/PlayerController.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,12 +25,30 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Quest of inventory/Scripts/Door.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../OldProjects/ProjectFPSFinal/Assets/FPS Project/Scripts/Inventory/Inventory.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../OldProjects/ProjectFPSFinal/Assets/FPS Project/Scripts/Inventory/Item.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Quest of inventory/Scripts/Dialogue&amp;Questing/Factions/FactionManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../OldProjects/ProjectFPSFinal/Assets/FPS Project/Scripts/Dialog/LineOfDialogue.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../OldProjects/ProjectFPSFinal/Assets/FPS Project/Scripts/Inventory/MenuSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../OldProjects/ProjectFPSFinal/Assets/FPS Project/Scripts/Dialog/Dialogue.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../OldProjects/ProjectFPSFinal/Assets/FPS Project/Scripts/Inventory/ItemDisplay.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../OldProjects/ProjectFPSFinal/Assets/FPS Project/Scripts/Player/Controllers/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../OldProjects/ProjectFPSFinal/Assets/FPS Project/Scripts/Managers/Dialogue/DialogueManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Quest of inventory/Scripts/Dialogue&amp;Questing/DialogueManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Quest of inventory/Scripts/NPC.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Quest of inventory/Scripts/Dialogue&amp;Questing/LineOfDialogue.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../OldProjects/ProjectFPSFinal/Assets/FPS Project/Scripts/Managers/FactionManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../OldProjects/ProjectFPSFinal/Assets/FPS Project/Scripts/Managers/InventoryMenuManager.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/Quest of inventory/Scripts/Door.cs" />
+      <option value="$PROJECT_DIR$/Assets/Quest of inventory/Scripts/Dialogue&amp;Questing/LineOfDialogue.cs" />
+      <option value="$PROJECT_DIR$/Assets/Quest of inventory/Scripts/Dialogue&amp;Questing/Factions/FactionManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Quest of inventory/Scripts/Dialogue&amp;Questing/Dialogue.cs" />
+      <option value="$PROJECT_DIR$/Assets/Quest of inventory/Scripts/NPC.cs" />
       <option value="$PROJECT_DIR$/Assets/Quest of inventory/Scripts/Player/PlayerController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Quest of inventory/Scripts/Dialogue&amp;Questing/DialogueManager.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1vTM3RKWfwMOdmgyV2TYBPisdp8" />
@@ -72,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1626581429510</updated>
       <workItem from="1626581461711" duration="2836000" />
-      <workItem from="1626584417660" duration="14045000" />
+      <workItem from="1626584417660" duration="22160000" />
     </task>
     <servers />
   </component>
